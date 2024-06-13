@@ -1,4 +1,5 @@
-**Cuaderno de Programación**
+**Cuaderno de Programación:**
+
 El siguiente repositorio, contiene todos los ejercicios o laboratorios, realizados durante el segundo semestre de ingeniería de la PUCE. Durante el primer período 2024 ordinario.
 El orden correspondiente será por semanas, donde cada resolución de problema contiene algoritmos cortos o extensos dependiendo del enunciado del ejercicio.
 
