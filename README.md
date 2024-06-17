@@ -5,6 +5,7 @@ El orden correspondiente será por semanas, donde cada resolución de problema c
 
 **Ejercicios primera semana:** 
 https://colab.research.google.com/drive/1yLjN1Tb5drFAY2FeYtbUD2gncyU7gsyS?usp=sharing
+
 https://colab.research.google.com/drive/1mhLZC-BKsHgvSdLWulbMtSY_PvwdnR-k?usp=sharing
 
 **Ejercicios 21 de Marzo**
