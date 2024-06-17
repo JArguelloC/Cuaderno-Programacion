@@ -9,4 +9,19 @@ El orden correspondiente será por semanas, donde cada resolución de problema c
 
 - https://colab.research.google.com/drive/1mhLZC-BKsHgvSdLWulbMtSY_PvwdnR-k?usp=sharing
 
-**Ejercicios 21 de Marzo**
+**Ejercicios segunda semana:**
+
+- https://colab.research.google.com/drive/1YFOJL7u9iuKQ6iJWyRsyc0T4OBuZeamW?usp=sharing
+
+**Ejercicios tercera semana:**
+
+- https://colab.research.google.com/drive/13HWLJALXgQngeiqyd3CzKBMFNK_ZuZZV?usp=sharing
+- https://colab.research.google.com/drive/1uwviR1hjDZsuxEP4GgOwzmwlb3jx2k-3?usp=sharing
+
+**Ejercicios cuarta semana:**
+
+- https://colab.research.google.com/drive/1dTIFdf424WqQIyaSQ3BI7T6xPz059DDc?usp=sharing
+
+**Ejercicios séptima semana:**
+
+- 
