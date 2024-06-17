@@ -40,3 +40,8 @@ El orden correspondiente será por semanas, donde cada resolución de problema c
 
 - https://colab.research.google.com/drive/1aSsql2Jl6r6xU6rQo8jKdeO77FilpKmp?usp=sharing
 
+**Primera prueba:**
+
+- https://colab.research.google.com/drive/1PuVTaU4yynas8FprYRJRYKPE5XIqG1QJ?usp=sharing
+
+**Segunda prueba:**
