@@ -45,3 +45,7 @@ El orden correspondiente será por semanas, donde cada resolución de problema c
 - https://colab.research.google.com/drive/1PuVTaU4yynas8FprYRJRYKPE5XIqG1QJ?usp=sharing
 
 **Segunda prueba:**
+
+- https://colab.research.google.com/drive/1rXDnGzjX2AnomC0XL0wcSi890lJ9pNXd?usp=sharing
+
+**Tercera prueba:**
