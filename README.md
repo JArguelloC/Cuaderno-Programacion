@@ -22,6 +22,21 @@ El orden correspondiente será por semanas, donde cada resolución de problema c
 
 - https://colab.research.google.com/drive/1dTIFdf424WqQIyaSQ3BI7T6xPz059DDc?usp=sharing
 
+**Ejercicios sexta semana:**
+
+- https://colab.research.google.com/drive/18UahBAYazXIp8A5h7JVVjF7miSTUZGzx?usp=drive_link
+- https://colab.research.google.com/drive/16XDWedxztuzHnti-UlUaawNhfGN6Xmkl?usp=sharing
+
 **Ejercicios séptima semana:**
 
-- 
+- https://colab.research.google.com/drive/1R6HSlQ0aHJOQFFrt_bpHoL6hyIJKQ--f?usp=sharing
+- https://colab.research.google.com/drive/1fPn93TTQvszpBQoTBrUZN4LjQyHs4Br7?usp=sharing
+
+**Ejercicios octava semana:**
+
+- https://colab.research.google.com/drive/1VnnB4D-1woGgdW0BksuNTyG-wvkjf_62?usp=sharing
+
+**Ejercicios novena semana:**
+
+- https://colab.research.google.com/drive/1aSsql2Jl6r6xU6rQo8jKdeO77FilpKmp?usp=sharing
+
